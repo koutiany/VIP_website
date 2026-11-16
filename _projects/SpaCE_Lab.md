@@ -5,7 +5,7 @@ permalink: /space_lab/
 description: "Led by Dr. Phoebe Zarnetske"
 importance: 1
 img: assets/img/spacelab.png
-applications: false
+applications: True
 advisors:
   - name: Dr. Phoebe Zarnetske
     title: Department of Integrative Biology, Michigan State University

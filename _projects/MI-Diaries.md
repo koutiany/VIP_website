@@ -5,7 +5,7 @@ permalink: /MI-Diaries/
 description: "Led by Drs. Sneller and Wagner"
 img: assets/img/MI-Diaries.png
 importance: 1
-applications: false
+applications: True
 advisors:
   - name: Dr. Betsy Sneller
     title: Department of Linguistics, Languages, and Cultures, Michigan State University

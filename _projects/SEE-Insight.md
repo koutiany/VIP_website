@@ -5,7 +5,7 @@ permalink: /see-insight/
 description: "Led by Dirk Colbry"
 img: assets/img/see_insight.jpg
 importance: 1
-applications: false
+applications: True
 advisors:
   - name: Dr. Dirk Colbry
     title: Department of Computational Mathematics, Science and Engineering, Michigan State University
@@ -92,4 +92,4 @@ Useful preparation might include:
 
 - **Required Meeting Time:** Thursdays from 9:00am-10:00am
     - Subteams might also require regular or ad hoc meetings on Teams, but these will be arranged to suit all relevant members.
-- **Location:** Engineering Building 1502/1503 (CMSE Conference Room) - [Link to Directions](https://cmse.msu.edu/About/directions.aspx)
+- **Location:** TBD. Engineering Building 1502/1503 (CMSE Conference Room) - [Link to Directions](https://cmse.msu.edu/About/directions.aspx)

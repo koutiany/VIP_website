@@ -5,7 +5,7 @@ permalink: /AI_Companion_Relationships/
 description: "Led by Dr. Celeste Campos-Castillo"
 img: assets/img/aicompanionvip.jpg
 importance: 1
-applications: false
+applications: True
 advisors:
   - name: Dr. Celeste Campos-Castillo
     title: Department of Media and Information, Michigan State University
