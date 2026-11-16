@@ -66,6 +66,5 @@ Useful preparation and qualities may include:
 
 
 ## Meeting Schedule & Location
-
-- **Meeting Time:** Thursdays from 10:30–11:30am 
+- **Meeting Time:** Thursdays from 11-11:50am 
 - **Location:** Communication Arts and Sciences (CAS) Building. Room number TBD.
