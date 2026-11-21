@@ -2,7 +2,7 @@
 layout: page
 title: "MI Diaries"
 permalink: /MI-Diaries/
-description: "Led by Drs. Sneller and Wagner"
+description: "Documenting changes in the lives and language of people living in Michigan <br> <br> Led by Drs. Sneller and Wagner"
 img: assets/img/MI-Diaries.png
 importance: 2
 applications: True

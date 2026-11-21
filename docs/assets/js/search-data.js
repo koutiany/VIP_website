@@ -46,7 +46,7 @@ ninja.data = [{
               },
             },{id: "projects-ai-companion-relationships",
           title: 'AI Companion Relationships',
-          description: "Led by Dr. Celeste Campos-Castillo",
+          description: "Connecting Research, Design, and Policy   Led by Dr. Celeste Campos-Castillo",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/AI_Companion_Relationships/";
             },},{id: "projects-dux-lab",
@@ -66,12 +66,12 @@ ninja.data = [{
               window.location.href = "/VIP_website/ICSAS/";
             },},{id: "projects-mi-diaries",
           title: 'MI Diaries',
-          description: "Led by Drs. Sneller and Wagner",
+          description: "Documenting changes in the lives and language of people living in Michigan   Led by Drs. Sneller and Wagner",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/MI-Diaries/";
             },},{id: "projects-health-communication-amp-community-research",
           title: 'Health Communication &amp;amp; Community Research',
-          description: "Led by Dr. Mengyan Ma",
+          description: "Empowering Healthier Communities Through Communication   Led by Dr. Mengyan Ma",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/health-communication-community-research/";
             },},{id: "projects-see-insight",

@@ -2,7 +2,7 @@
 layout: page
 title: "AI Companion Relationships"
 permalink: /AI_Companion_Relationships/
-description: "Led by Dr. Celeste Campos-Castillo"
+description: "Connecting Research, Design, and Policy <br> <br> Led by Dr. Celeste Campos-Castillo"
 img: assets/img/aicompanionvip.jpg
 importance: 2
 applications: True
