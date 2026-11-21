@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Institute for Cyber-Enabled Research"
+title: "ICER"
 permalink: /icer/
-description: "Led by Craig Grosch"
+description: "Institute for Cyber-Enabled Research <br> <br> Led by Craig Grosch"
 img: assets/img/icer.png
-importance: 1
+importance: 2
 applications: True
 advisors:
   - name: Dr. Craig Grosch

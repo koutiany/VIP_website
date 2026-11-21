@@ -2,8 +2,8 @@
 layout: page
 title: "SpaCE Lab"
 permalink: /space_lab/
-description: "Led by Dr. Phoebe Zarnetske"
-importance: 1
+description: "Spatial and Community Ecology Lab <br> <br> Led by Dr. Phoebe Zarnetske"
+importance: 2
 img: assets/img/spacelab.png
 applications: True
 advisors:

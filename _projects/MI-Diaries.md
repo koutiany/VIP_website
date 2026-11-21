@@ -4,7 +4,7 @@ title: "MI Diaries"
 permalink: /MI-Diaries/
 description: "Led by Drs. Sneller and Wagner"
 img: assets/img/MI-Diaries.png
-importance: 1
+importance: 2
 applications: True
 advisors:
   - name: Dr. Betsy Sneller

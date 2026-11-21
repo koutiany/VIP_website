@@ -5,7 +5,7 @@ permalink: /health-communication-community-research/
 description: "Led by Dr. Mengyan Ma"
 img: assets/img/mengyan.png
 applications: False
-importance: 9
+importance: 2
 advisors:
   - name: Dr. Mengyan Ma
     title: Department of Advertising and Public Relations

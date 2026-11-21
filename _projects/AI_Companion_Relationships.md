@@ -4,7 +4,7 @@ title: "AI Companion Relationships"
 permalink: /AI_Companion_Relationships/
 description: "Led by Dr. Celeste Campos-Castillo"
 img: assets/img/aicompanionvip.jpg
-importance: 1
+importance: 2
 applications: True
 advisors:
   - name: Dr. Celeste Campos-Castillo

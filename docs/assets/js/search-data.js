@@ -51,14 +51,19 @@ ninja.data = [{
               window.location.href = "/VIP_website/AI_Companion_Relationships/";
             },},{id: "projects-dux-lab",
           title: 'DUX Lab',
-          description: "Led by Jeff Siarto",
+          description: "Design &amp; User Experience Lab   Led by Jeff Siarto",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/dux/";
-            },},{id: "projects-institute-for-cyber-enabled-research",
-          title: 'Institute for Cyber-Enabled Research',
-          description: "Led by Craig Grosch",
+            },},{id: "projects-icer",
+          title: 'ICER',
+          description: "Institute for Cyber-Enabled Research   Led by Craig Grosch",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/icer/";
+            },},{id: "projects-icsas",
+          title: 'ICSAS',
+          description: "Interregional, Crosslinguistic South Asian Studies Team   Led by Jon Keune",
+          section: "Projects",handler: () => {
+              window.location.href = "/VIP_website/ICSAS/";
             },},{id: "projects-mi-diaries",
           title: 'MI Diaries',
           description: "Led by Drs. Sneller and Wagner",
@@ -71,12 +76,12 @@ ninja.data = [{
               window.location.href = "/VIP_website/health-communication-community-research/";
             },},{id: "projects-see-insight",
           title: 'SEE-Insight',
-          description: "Led by Dirk Colbry",
+          description: "Developing computational tools to accelerate research and discovery   Led by Dirk Colbry",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/see-insight/";
             },},{id: "projects-space-lab",
           title: 'SpaCE Lab',
-          description: "Led by Dr. Phoebe Zarnetske",
+          description: "Spatial and Community Ecology Lab   Led by Dr. Phoebe Zarnetske",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/space_lab/";
             },},{

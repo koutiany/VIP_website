@@ -2,9 +2,9 @@
 layout: page
 title: "SEE-Insight"
 permalink: /see-insight/
-description: "Led by Dirk Colbry"
+description: "Developing computational tools to accelerate research and discovery <br> <br> Led by Dirk Colbry"
 img: assets/img/see_insight.jpg
-importance: 1
+importance: 3
 applications: True
 advisors:
   - name: Dr. Dirk Colbry
