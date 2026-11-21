@@ -3,7 +3,7 @@ layout: page
 title: "DUX Lab"
 permalink: /dux/
 description: "Design & User Experience Lab <br> <br> Led by Jeff Siarto"
-importance: 3
+importance: 4
 applications: True
 img: assets/img/duk.png
 advisors:
