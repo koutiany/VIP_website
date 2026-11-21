@@ -23,7 +23,6 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 
 ---
-## The VIP Model
 
 The Vertically Integrated Projects (VIP) Program is a nonprofit alliance of colleges and universities that engages students in long-term, faculty-led academic work. Unlike traditional courses, VIP emphasizes sustained involvement, allowing students to contribute to projects that grow and evolve over time.
 

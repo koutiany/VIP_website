@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Advisors
+title: VIP Advisors
 permalink: /advisors/
+description: "Meet the faculty, staff, and industry professionals who guide our VIP teams."
 nav: true
 nav_order: 4
 ---

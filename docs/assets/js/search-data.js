@@ -9,16 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/VIP_website/";
     },
-  },{id: "nav-teams",
-          title: "Teams",
-          description: "VIP Teams.",
+  },{id: "nav-vip-teams",
+          title: "VIP Teams",
+          description: "Explore the teams below to learn about their projects, goals, and opportunities for involvement.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/VIP_website/teams/";
           },
-        },{id: "nav-advisors",
-          title: "Advisors",
-          description: "",
+        },{id: "nav-vip-advisors",
+          title: "VIP Advisors",
+          description: "Meet the faculty, staff, and industry professionals who guide our VIP teams.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/VIP_website/advisors/";

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Teams
+title: VIP Teams
 permalink: /teams/
-description: VIP Teams.
+description: "Explore the teams below to learn about their projects, goals, and opportunities for involvement."
 nav: true
 nav_order: 3
 #display_categories: [work, fun]
