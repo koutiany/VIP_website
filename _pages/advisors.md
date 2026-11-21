@@ -43,4 +43,22 @@ nav_order: 4
 
 {% endfor %}
 
+<hr>
+
+<div class="advisor-card">
+  <img src="{{ '/assets/img/bkeas.jpg' | relative_url }}"
+       alt="Brian Keas"
+       class="advisor-img">
+  
+  <div class="advisor-info">
+    <strong>Brian Keas</strong><br>
+    <em>Program Coordinator</em><br>
+    <a href="mailto:bkeas@msu.edu">bkeas@msu.edu</a><br>
+    <br>
+    <p>Brian supports the VIP program at Michigan State University, helping connect students, faculty, staff, and external partners through collaborative, project-based learning experiences. He brings more than two decades of experience mentoring undergraduate researchers and supporting high-impact educational programs.<br>
+    <br>
+    Faculty intersted in running their own VIP should contact <a href="mailto:bkeas@msu.edu">Brian Keas</a> for more information.</p>
+  </div>
+</div>
+
 </div>
