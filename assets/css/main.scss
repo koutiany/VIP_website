@@ -41,6 +41,29 @@ $max-content-width: {{ site.max_width }};
   margin: 0;
 }
 
+a.apply-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.375rem;
+  background-color: $green-color-dark;
+  color: $white-color;
+  font-size: 1.125rem;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #10332b;
+    color: $white-color;
+    text-decoration: underline;
+  }
+
+  &:focus {
+    outline: 3px solid var(--global-text-color);
+    outline-offset: 3px;
+  }
+}
+
 
 .advisor-img {
   max-width: 200px;
