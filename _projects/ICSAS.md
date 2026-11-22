@@ -16,7 +16,7 @@ advisors:
 
 # Interregional, Crosslinguistic South Asian Studies Team (ICSAS)
 
-ICSAS is a VIP team that develops digital tools to study South Asian cultures across its many languages and regions. This work grows out of an established network of scholars beyond MSU, the Regional Bhakti Scholars Network, which has over 130 members across the globe.  Initially, ICSAS will focus on improving and further developing the interface and infrastructure of the Bhakti Virtual Archive to create new search capabilities and enhance user experience.
+ICSAS is a VIP team that develops digital tools to study South Asian cultures across its many languages and regions. This work grows out of an established network of scholars beyond MSU, the [Regional Bhakti Scholars Network](https://www.regionalbhakti.org/), which has over 130 members across the globe.  Initially, ICSAS will focus on improving and further developing the interface and infrastructure of the [Bhakti Virtual Archive](https://www.regionalbhakti.org/bhavahome/) to create new search capabilities and enhance user experience.
 
 Students in this VIP team may assist with:
 

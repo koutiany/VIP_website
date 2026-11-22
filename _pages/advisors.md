@@ -55,7 +55,7 @@ nav_order: 4
     <em>Program Coordinator</em><br>
     <a href="mailto:bkeas@msu.edu">bkeas@msu.edu</a><br>
     <br>
-    <p>Brian supports the VIP program at Michigan State University, helping connect students, faculty, staff, and external partners through collaborative, project-based learning experiences. He brings more than two decades of experience mentoring undergraduate researchers and supporting high-impact educational programs.<br>
+    <p>Brian is the Director of <a href="https://urca.msu.edu/">Undergraduate Research</a> in the Office of <a href="https://undergrad.msu.edu/">Undergraduate Education</a> at <a href="https://msu.edu">Michigan State University</a>. Brian supports the VIP program at Michigan State University, helping connect students, faculty, staff, and external partners through collaborative, project-based learning experiences. He brings more than two decades of experience mentoring undergraduate researchers and supporting high-impact educational programs.<br>
     <br>
     Faculty intersted in running their own VIP should contact <a href="mailto:bkeas@msu.edu">Brian Keas</a> for more information.</p>
   </div>
