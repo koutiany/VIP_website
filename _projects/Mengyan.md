@@ -5,7 +5,7 @@ permalink: /health-communication-community-research/
 description: "Empowering Healthier Communities Through Communication <br> <br> Led by Dr. Mengyan Ma"
 img: assets/img/mengyan.png
 applications: False
-importance: 5git
+importance: 5
 advisors:
   - name: Dr. Mengyan Ma
     title: Department of Advertising and Public Relations
